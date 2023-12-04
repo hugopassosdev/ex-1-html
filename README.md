@@ -1,1 +1,1 @@
-# Exercício de estrturação básica de uma página em HTMLl
+# Exercício de estrturação básica de uma página em HTML
